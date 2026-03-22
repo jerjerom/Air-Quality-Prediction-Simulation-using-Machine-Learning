@@ -1,0 +1,19 @@
+==============================
+         Manila Data
+==============================
+                 datetime  main.aqi  components.co  components.no  components.no2  components.o3  components.so2  components.pm2_5  components.pm10  components.nh3 city_name
+2025-01-01 00:02:43+08:00         2         947.95           0.98           31.87           3.35            9.78             23.52            41.24            7.66    Manila
+==============================
+
+===== Default Hyperparameters =====
+MAE : 1.9957222222222262
+RMSE: 2.694841457509354
+R2  : 0.9686301572988252
+
+===== Using Grey Wolf Optimization =====
+Best n_estimators: 52
+Best max_depth   : 7
+Best max_features: 1.0
+MAE : 1.7408929642384
+RMSE: 2.4767261216971437
+R2  : 0.9735026848948921
